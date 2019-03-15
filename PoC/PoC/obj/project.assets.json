@@ -13264,11 +13264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Crisly-PC\\source\\repos\\PoC\\PoC\\PoC.csproj",
+      "projectUniqueName": "C:\\Users\\Crisly-PC\\Documents\\React-PoC\\PoC\\PoC\\PoC.csproj",
       "projectName": "PoC",
-      "projectPath": "C:\\Users\\Crisly-PC\\source\\repos\\PoC\\PoC\\PoC.csproj",
+      "projectPath": "C:\\Users\\Crisly-PC\\Documents\\React-PoC\\PoC\\PoC\\PoC.csproj",
       "packagesPath": "C:\\Users\\Crisly-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Crisly-PC\\source\\repos\\PoC\\PoC\\obj\\",
+      "outputPath": "C:\\Users\\Crisly-PC\\Documents\\React-PoC\\PoC\\PoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

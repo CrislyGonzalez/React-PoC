@@ -9,3 +9,14 @@ C:\Users\Crisly-PC\source\repos\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.AssemblyInfo
 C:\Users\Crisly-PC\source\repos\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.dll
 C:\Users\Crisly-PC\source\repos\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.pdb
 C:\Users\Crisly-PC\source\repos\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.csprojAssemblyReference.cache
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\bin\Debug\netcoreapp2.0\PoC.deps.json
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\bin\Debug\netcoreapp2.0\PoC.runtimeconfig.json
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\bin\Debug\netcoreapp2.0\PoC.runtimeconfig.dev.json
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\bin\Debug\netcoreapp2.0\PoC.dll
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\bin\Debug\netcoreapp2.0\PoC.pdb
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.csprojAssemblyReference.cache
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.csproj.CoreCompileInputs.cache
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.AssemblyInfoInputs.cache
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.AssemblyInfo.cs
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.dll
+C:\Users\Crisly-PC\Documents\React-PoC\PoC\PoC\obj\Debug\netcoreapp2.0\PoC.pdb
